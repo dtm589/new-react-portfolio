@@ -1,8 +1,8 @@
 const logotext = "DTM";
 const meta = {
     title: "Derek Marchese",
-    description: "I’m Derek Marchese Full stack devloper,currently working in Florida",
-};
+    description: "I’m Derek Marchese Full stack devloper, currently working in Florida",
+}; 
 
 const introdata = {
     title: "I’m Derek Marchese",
@@ -12,7 +12,7 @@ const introdata = {
         third: "I give back",
     },
     description: "Dedicated, ambitious, problem solver that utilizes critical thinking to create apps and websites from ideation to deployment.",
-    your_img_url: "https://media.licdn.com/dms/image/D4E03AQE9kY4xX1JX7A/profile-displayphoto-shrink_800_800/0/1694310548935?e=2147483647&v=beta&t=ctacYMaHI29JbPyDljVjA3yE5EOJ8shZTsF2XkRG31c",
+    your_img_url: "https://d.img.vision/derek/final.png",
 };
 
 const dataabout = {
